@@ -25,6 +25,7 @@ app.get('/', (req, res) => {
   return rp(config).then(function (data) {
     res.render('index', {
         // aluno: JSON.parse(data)
+        
     })
   })
 });

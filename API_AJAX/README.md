@@ -10,6 +10,6 @@ bibliografia:
 https://blog.matheuscastiglioni.com.br/requisicoes-ajax-com-javascript/
 https://github.com/Marcelo-Diament/Github-API-with-AJAX/blob/master/index.html
 
-nota: AJAX é uma aplicação para o front, não sendo necessário realizar a chamada pelo backend. 
+nota: AJAX é uma aplicação para o front, não sendo necessário realizar a chamada pelo backend .
 
 
